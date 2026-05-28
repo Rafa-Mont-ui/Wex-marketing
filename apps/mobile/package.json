@@ -10,7 +10,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@wex/shared": "*",
+    "@wex/shared": "workspace:*",
     "expo": "~52.0.0",
     "expo-linear-gradient": "~14.0.2",
     "expo-status-bar": "~2.0.1",
